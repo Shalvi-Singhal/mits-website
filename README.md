@@ -1,1 +1,433 @@
-# mits-website
+<!DOCTYPE html>
+<html>
+<head>
+	<title>MITS HOME</title>
+
+	<style type="text/css">
+		
+		.div1{
+			margin: 0;
+			margin-top: 0;
+			padding-top: 0;
+			height: 200px;
+			background-color: #fff;
+		}
+
+        .logo1{
+        	float: left;
+        	margin-left: 34px;
+        	padding-right: 0px;
+        }
+    
+		.name1{
+			padding-top: : 2px;
+			margin-left: 20px;
+			padding-left: 0;
+		}
+
+		.sites{
+			float: right;
+			margin: 0;
+			padding: 0;
+			padding-right: 12px;
+			margin-left: 12px;
+		}
+
+		table{
+			margin-top: 0px;
+			margin-left: 60px;
+
+		}
+
+
+		table a{
+			text-decoration: none;
+			color: black;
+			font-size: 0.8em;
+			font-weight: bold;
+			display: block;
+			
+		}
+
+		.td1{
+			border-top: 5px solid #EFEFEF;
+			color: black;
+		}
+
+		.div3{
+			margin-top: 30px;
+			background-color: #F9F9F9;
+		}
+
+		.navig1 {
+			margin-top: 55px;
+    line-height: 20px;
+    box-sizing: border-box;
+    background-color: #fff;
+        }
+
+        .div-panel{
+        	float: left;
+        	height: 300px;
+        }
+
+       .panel-title a{
+    display:block;
+    height: 0px;
+    width: 230px;
+    color: black;
+    padding: 5px 15px;
+         }
+.pannel-title{
+	margin-top: 10px;
+	margin-bottom: 0px
+	margin-right: 0px;
+	padding: 0px;
+	font: 16px;
+	box-sizing:border-box;
+       }
+
+       .pannel-title2{
+	margin-top: 10px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding: 5px;
+	box-sizing:border-box;
+       }
+
+  .panel-title2 a{
+    display:block;
+    height: 10px;
+    width: 230px;
+    padding: 10px 15px;
+         }
+
+    a:hover{
+    	color: red;
+    }
+    
+    .li1 {
+    	color: blue;
+    	font-weight: bold;
+    	float: left;
+    	list-style-type: none;
+    	width: 200px;
+    	padding: 15px 10px;
+
+    }
+
+    .li2 {
+    	color: blue;
+    	font-weight: bold;
+    	float: left;
+    	list-style-type: none;
+    	width: 100px;
+    	padding: 15px 10px;
+
+    }
+
+    .li3 {
+    	color: blue;
+    	font-weight: bold;
+    	float: left;
+    	list-style-type: none;
+    	width: 150px;
+    	padding: 15px 10px;
+
+    }
+
+    nav ul li a{
+    	text-decoration: none;
+    	color: #167ac6;
+    }
+
+    .image{
+    	opacity: 0.8;
+    	height: 350px;
+    	margin-top: 0px;
+    	width: 85%;
+    	margin-left:90px; 
+    	background-color:#fff;
+    }
+
+
+.li4 {
+    	color: black;
+    	font-weight: bold;
+    	padding: 10px;
+    	height: 15px;
+    	list-style-type: square;
+}
+    	
+  .image2{
+         height: 60px;
+         width: 80px;
+  }
+
+.li5 {
+    	color: black;
+    	font-weight: bold;
+    	padding: 10px;
+    	height: 12px;
+    	list-style-type: square;
+}
+
+ .a1{
+ 	color: black;
+ 	font-size: 0.8em;
+}
+
+	</style>
+
+</head>
+
+<body style="font-family: 'Open Sans', 'Myriad Pro', 'Helvetica', sans-serif; margin-left: 100px; background-color: #F9F9F9;">
+	<div class="div1">
+		
+		<a href="#"><img class="sites" src="https://mitsgwalior.in/img/moodle.png"></a>
+        <a href="#"><img class="sites" src="https://mitsgwalior.in/img/linkedin.png"></a>
+		<a href="#"><img class="sites" src="https://mitsgwalior.in/img/instagram.jpg"></a>
+        <a href="#"><img class="sites" src="https://mitsgwalior.in/img/Twitter_Logo.png"></a>
+        <a href="#"><img class="sites" src="https://mitsgwalior.in/img/facebook-icon.png"></a>
+        <a href="#"><img class="sites" src="https://mitsgwalior.in/img/mitslive.jpg"></a>
+
+		<img class="logo1" src="https://mitsgwalior.in/img/newsite-logo1.png">
+		<img class="name1" src="https://mitsgwalior.in/img/headimg2019m.png">
+	</div>
+
+	<div style="background-color: #fff;" >
+		<nav class="navig1">
+		<table cellspacing ="40" >
+			<tr>
+			   <td class="td1"><a href="https://mitsgwalior.in/index.php" style="display: block;">INSTITUTION</a></td>
+			   <td class="td1"><a href="#">COURSES</a></td>
+			   <td class="td1"><a href="#">DEPARTMENTS</a></td>
+			   <td class="td1"><a href="#">CENTRAL FACILITIES</a></td>
+			   <td class="td1"><a href="#">TRAINING & PLACEMENT</a></td>
+			   <td class="td1"><a href="#">NEWS LETTER</a></td>
+			   <td class="td1"><a href="#">CONTACT US</a></td>
+          </tr>
+		</table>
+	</nav>
+			
+	</div>
+
+	<div class="div3">
+		<div style="float: left; width: 270px;">
+		<p style="margin-top: 0px; size: 3em; font-weight: bold;">DIRECTOR'S MESSAGE</p>
+		<hr>
+		<p style="color: #4682B4; word-spacing: 0.3em; font-size: 1em; font-weight: lighter; margin-top: 50px;"><img src="https://mitsgwalior.in/img/Director_img.jpg" style="float: left;">It has been said over centuries that “Change is the only thing that is constant”. But never before, in the history of mankind, has the rate of change been as phenomenal as it has been during the last couple of years, particularly in the technological arena.&nbsp;&nbsp;&nbsp;&nbsp;<button a href="" style=" background-color: #666666; color: white; font-size: 0.9em; font-weight: bold; text-decoration: none cellspacing: 2px; border:0;"></a>MORE</button></p>
+		<hr>
+	</div>
+		<img src="https://mitsgwalior.in/front/10.jpg" height="290" width="550" style="float: center; padding-right: 0px; padding-left: 30px;" >
+		<img src="https://mitsgwalior.in/img/mission2018.png" height=290 width=260 style="float: right; margin-right: 100px; padding-left: 0px;">
+	
+	</div>
+
+	<div align= "center" style="margin-top: 50px;">
+		<h4 style="color:black; "><a href="https://mitsgwalior.in/login/upload/Time%20table%20for%20BE%20Final%20Year_2020%20(1).pdf" style="text-decoration: none; color: #167ac6;">Tentative Time Table of Final Year End Semester Examination for Academic Session Jan- June 2020</a></h4>
+
+		<div>
+			<div class="div-panel">
+			<h4>LINKS</h4>
+
+			<div style="background-color: #8FBC8F;  border: 2px solid; border-color: #ddd;" >
+				<h4 class="panel-title"><a href="#" style="text-decoration: none;">Academic Calander</a></h4>
+			</div>
+
+			
+			<div style="background-color: #FFB6C1; border: 2px solid; border-color: #ddd;">
+				<h4 class="panel-title"><a href="#" style="text-decoration: none;">Flexible Curricumlum</a></h4>
+			</div>
+
+
+			<div style="background-color: #ffdab3;  border: 2px solid; border-color: #ddd;">
+				<h4 class="panel-title"><a href="#" style="text-decoration: none;">Girls Grievence Cell</a></h4>
+			</div>
+
+
+			<div style="background-color: #33cccc;  border: 2px solid; border-color: #ddd;">
+				<h4 class="panel-title"><a href="#" style="text-decoration: none;">Playgiarism property</a></h4>
+			</div>
+
+
+			<div style="background-color: #99cc00;  border: 2px solid; border-color: #ddd;">
+				<h4 class="panel-title"><a href="#" style="text-decoration: none;">Quality Assurance</a></h4>
+			</div>
+
+
+			<div style="background-color: #ff8000;  border: 1px solid; border-color: #ddd;">
+				<h4 class="panel-title"><a href="#" style="text-decoration: none;">Admission 2019-20</a></h4>
+			</div>
+
+		</div>
+	</div>
+
+		
+
+		<div style="float: right; margin-top: 0px; margin-right: 50px;">
+			<h4>DOWNLOADS</h4>
+
+			<div style="background-color: #fff; border: 1px solid; border-color: #ddd;">
+				<h4 class="panel-title2"><img src="https://mitsgwalior.in/img/academic.jpg" style="height: 40px; width: 250px;"  style="text-decoration: none;"></a></h4>
+			</div>
+
+			<div style="background-color: #fff;  border: 1px solid; border-color: #ddd;">
+				<h4 class="panel-title2"><img src="https://mitsgwalior.in/img/exambutton.jpg" style="height: 40px; width: 250px;"   style="text-decoration: none;"></a></h4>
+			</div>
+
+			<div style="background-color: #fff; border: 1px solid; border-color: #ddd;">
+				<h4 class="panel-title2"><img src="https://mitsgwalior.in/img/accountsbutton.jpg" style="height: 40px; width: 250px;"  style="text-decoration: none;"></a></h4>
+			</div>
+
+			<div style="background-color: #fff; border: 1px solid; border-color: #ddd;">
+				<h4 class="panel-title2"><img src="https://mitsgwalior.in/img/others1button.jpg" style="height: 40px; width: 250px;"  style="text-decoration: none;"></a></h4>
+			</div>
+	</div>
+
+	<div align="center" style="margin-top: 40px; height: 400px; width:400; margin-left: 0px; margin-right: 0px;">
+		
+			<h4>CAMPUS LIFE</h4> 
+			<nav style="height: 50px; margin-bottom: 0px;">
+				<ul>
+			   <li class="li1"><a href="#">COURSES</a></li>
+			   <li class="li1"><a href="#">DEPARTMENTS</a></li>
+			   <li  class="li1"><a href="#">CENTRAL FACILITIES</a></li>
+			   </ul>
+		   </nav>
+
+            <hr>
+			<iframe src="https://mitsgwalior.in/logos.php" style="height: 260px; width: 580px; margin-left: 0px; margin-right: 0px; border: 0px;">
+			</iframe>
+		</div>
+</div>
+
+
+ <div  style="height: 360px;">
+	<div style="margin-top: 30px; float: left;">
+	<h4>HIGHLIGHTS</h4>
+	<nav style="height: 50px; margin-bottom: 0px;">
+				<ul>
+			   <li class="li2"><a href="#">All</a></li>
+			   <li class="li2"><a href="#">Academic</a></li>
+			   <li class="li2"><a href="#">Exam</a></li>
+			   <li class="li2"><a href="#">Tender</a></li>
+			   <li class="li2"><a href="#">Reqruitment</a></li>
+			   </ul>
+		   </nav>
+
+            <hr>
+			<iframe src="http://mitsgwalior.in/newsall.php" style="height: 200px; width: 750px; margin-left: 0px; margin-right: 0px; border: 0px;">
+			</iframe>
+</div>
+
+
+<div style="float: right; background-color: #fff; height: 350px; width: 400px; margin-right: 80px;">
+<p>NEWS & EVENTS</p><br>
+<h4>NPTEL LOCAL CHAPTERS RAMKING 2019</h4>
+<p>2019</p>
+<p style="word-spacing: 0.8em; font-size: 0.9em; font-weight: lighter;"><img src="https://mitsgwalior.in/login/event_upload/nptel.jpg" style="float: left; height: 95px; width: 90px;" href="#">MITS Ranks 31st and secured AA Category among 2900+ local chapters in the country in National Programme on Technology Enhanced Learning (NPTEL) MHRD</p>
+<p><a href="#" style="text-decoration: none;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DOWNLOAD</a></p>
+<hr>
+</div>
+</div>
+
+
+<div  style="height: 360px;">
+<div style=" margin-left: 0px; float: left;">
+	<h4>ACTIVITIES</h4>
+	<nav style="height: 50px; margin-bottom: 0px;">
+				<ul>
+
+			   <li class="li3"><a href="#">Workshops</a></li>
+			   <li class="li3"><a href="#">Clubs</a></li>
+			   <li class="li3"><a href="#">chapter</a></li>
+			   <li class="li3"><a href="#">Sportsr</a></li>
+		
+			   </ul>
+		   </nav>
+
+            <hr>
+			<iframe src="https://mitsgwalior.in/workshop.php" style="height: 200px; width: 750px; margin-left: 0px; margin-right: 0px; border: 0px;">
+			</iframe>
+</div>
+
+<div style="float: right; margin-right: 140px; margin-left: 0px; margin-top: 0px; height:250px width: 300px;">
+<h4 align="justify">QUICK LINKS</h4>
+  <p><a href="http://moodle.mitsgwalior.in/"><img src="https://mitsgwalior.in/quicklinks/moodle1.png"></a>
+	<a href="http://ims.mitsgwalior.in/"><img src="https://mitsgwalior.in/quicklinks/imsn.png"></a>
+	<a href="https://mitsgwalior.in/nirf.php"><img src="https://mitsgwalior.in/quicklinks/nirfn.jpg"></a><br>
+    <a href="http://mis.mitsgwalior.in/User_Mgmt/Frm_userlogin.aspx"><img src="https://mitsgwalior.in/quicklinks/imss.jpg"></a>
+	<a href="https://sites.google.com/view/nptelmits/home"><img src="https://mitsgwalior.in/quicklinks/nptellc.jpg"></a>
+    <a href="https://sites.google.com/view/nptelmits/home"><img src="https://mitsgwalior.in/quicklinks/naacn.png"></a><br>
+ 	<a href="https://mitsredressal.weshinetech.in/"><img src="https://mitsgwalior.in/quicklinks/dep.jpg"></a>
+	<a href="https://mitsgwalior.in/admission.php"><img src="https://mitsgwalior.in/quicklinks/admission.jpg"></a>
+    <a href="https://mitsgwalior.in/login/upload/Club%20List%202019.pdf"><img src="https://mitsgwalior.in/quicklinks/clubs.jpg"></a>
+</p>
+</div>
+
+</div>
+
+
+<div style=" margin-left: -90px; margin-right: -100px; margin-top: 0px; width: 110%; height: 350px; background-image: url(https://mitsgwalior.in/img/footer-bg.png); background-size: cover;">
+	<div class="image">
+
+	<div style="float: left; height: 300px; width: 300px;">
+		<p style="float: left; font-size: 0.85em;">QUICKLINKS</p><br><br>
+		<ul>
+			<li class="li4"><a href="#" style="text-decoration: none;" class="a1">TENDERS</a></li>
+			<li class="li4"><a href="#" style="text-decoration: none;" class="a1">NPTEL/LOCAL CHAPTER</a></li>
+			<li class="li4"><a href="#" style="text-decoration: none;" class="a1">STARTUP CELL</a></li>
+			<li class="li4"><a href="#" style="text-decoration: none;" class="a1">REMIDIAL/BRIDGE CLASS TIME TABLE</a></li>
+			<li class="li4"><a href="#" style="text-decoration: none;" class="a1">DISABILITY RESOURCE CENTER</a></li>
+			<li class="li4"><a href="#" style="text-decoration: none;" class="a1">AICTE COVID 19 HELPLINE</a></li>
+			<li class="li4"><a href="#" style="text-decoration: none;" class="a1">TENDERS</a></li>
+			<li class="li4"><a href="#" style="text-decoration: none;" class="a1">ETC</a></li>
+		</ul>
+</div>
+
+<div style="float: right; margin-right: 40px;">
+	<p style="float: right; margin-right: 400px; font-size: 0.85em;">GALLERY</p><br><br>
+	<p><a href="#"><img src="https://mitsgwalior.in/gallery/f1s.JPG" class="image2"></a>
+	<a href="#"><img src="https://mitsgwalior.in/gallery/f2s.JPG" class="image2"></a>
+	<a href="#"><img src="https://mitsgwalior.in/gallery/f3s.JPG" class="image2"></a>
+	<a href="#"><img src="https://mitsgwalior.in/gallery/f4s.JPG" class="image2"></a></p>
+	<p>
+	<a href="#"><img src="https://mitsgwalior.in/gallery/f5s.JPG" class="image2"></a>
+	<a href="#"><img src="https://mitsgwalior.in/gallery/f6s.JPG" class="image2"></a>
+	<a href="#"><img src="https://mitsgwalior.in/gallery/22.jpg" class="image2"></a>
+	<a href="#"><img src="https://mitsgwalior.in/gallery/2.jpg" class="image2"></a></p>
+	<p>
+	<a href="#"><img src="https://mitsgwalior.in/gallery/12.jpg" class="image2"></a>
+	<a href="#"><img src="https://mitsgwalior.in/gallery/3.jpg" class="image2"></a>
+	<a href="#"><img src="https://mitsgwalior.in/gallery/f7s.JPG" class="image2"></a>
+	<a href="#"><img src="https://mitsgwalior.in/gallery/f8s.JPG" class="image2"></a>
+	</p>	
+	
+</div>
+
+<div style="margin-left: 400px; width: 500px;">
+	<br>
+	<br>
+		<ul>
+			<li class="li5"><a href="#" style="text-decoration: none;" class="a1">ONLINE MENTAL HEALTH COUNSELLING</a></li>
+			<li class="li5"><a href="#" style="text-decoration: none;" class="a1">ALUMNI REGISTRATION</a></li>
+			<li class="li5"><a href="#" style="text-decoration: none;" class="a1">TEQIP-III</a></li>
+			<li class="li5"><a href="#" style="text-decoration: none;" class="a1">MOODLE</a></li>
+			<li class="li5"><a href="#" style="text-decoration: none;" class="a1">NPTEL NEWS LETTER JAN-JULY 2018</a></li>
+			<li class="li5"><a href="#" style="text-decoration: none;" class="a1">FREQUENTLY ASKED QUESTIONS (FAQs)</a></li>
+			<li class="li5"><a href="#" style="text-decoration: none;" class="a1">ICT/DIGITAL INITIATIVES BY MHRD</a></li>
+			<li class="li5"><a href="#" style="text-decoration: none;" class="a1">ARCHIVES</a></li>
+		</ul>
+</div>
+</div>
+</div>
+
+<div style="background-color: #000; width:110%; height: 40px; margin-left: -90px; margin-right: -100px; margin-top: 0px;">
+	<p style="float: left; font-size: 0.7em; color: red; margin-left: 0px;">@2018 MITS GWALIOR</p>
+	<p style="float: right; margin-right: 400px; font-size: 0.7em; color: blue;"><a href="#">WEB ADMINISTRATIVE TEAM</a></p>
+
+		
+
+</body>
+</html>
